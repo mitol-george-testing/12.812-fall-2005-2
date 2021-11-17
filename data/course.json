@@ -1,0 +1,47 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9cadd9c7-2269-7932-edf2-a7d4a03640ab"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "General Circulation of the Earth's Atmosphere",
+  "course_description": "This course examines diagnostic studies of the Earth's atmosphere and discusses their implications for the theory of the structure and general circulation of the Earth's atmosphere. It includes some discussion of the validation and use of general circulation models as atmospheric analogs.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.812",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
